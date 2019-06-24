@@ -4,4 +4,4 @@ My attempt at solving the [Advent of Code challenges](https://adventofcode.com/2
 
 To run most:
 
-stack <filename.hs> < <inputfilename>.txt
+stack <filename.hs> < <inputfilename.txt>
